@@ -7,7 +7,7 @@ E-mail: sales@uctronics.com
 Author: Lee
 Date: 2017/06/12
 ***********************************************************/
-int adc_id = 0;
+int adc_id = A0;
 int HistoryValue = 0;
 char printBuffer[128];
 
